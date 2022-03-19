@@ -2,3 +2,6 @@ Criando arquivos no Github utilizando a via Add Files.
 Apagando o conteúdo no Github
 
 Atualizando do Github para o repositório local
+
+Finalizando por que sextou!!! VisualStudio
+para o Github
